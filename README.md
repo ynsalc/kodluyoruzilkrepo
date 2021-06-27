@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+Kodluyoruz İlk Repo
